@@ -13,8 +13,8 @@ export default function Menu({menuOpen, setMenuOpen}) {
                 <li>
                     <a href="#testimonials">Testiomonials</a>
                 </li>
-                <li>
-                    <a href="#works">Works</a>
+              <li>
+                <a href="#works">keskecé</a>
                 </li>
                 <li>
                     <a href="#contact">Contact</a>
