@@ -22,13 +22,22 @@
         margin: 0;
         padding: 0;
         list-style: none;
-        font-size: 40px;
+        font-size: 25px;
+        color: whitesmoke;
+        width: 60%;
 
         li{
+            margin-bottom: 25px;
+
             a{
                 font-size: inherit;
                 color: inherit;
                 text-decoration: none;
+               
+            }
+            &:hover{
+                font-weight: 500;
+                color: rgb(157, 231, 7);
             }
         }
     }
