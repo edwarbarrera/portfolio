@@ -3,7 +3,7 @@ $mainColor:rgb(78, 11, 236);
 $width:768px;
 
 @mixin mobile{
-    @media (max-width:#{$width}){
+    @media (max-width: #{$width}){
         @content
     }
 }
